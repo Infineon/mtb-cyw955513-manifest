@@ -1,0 +1,16 @@
+<dependencies>
+  <depender>
+    <id>recipe-make-cat5</id>
+    <versions>
+      <version>
+        <commit>release-v1.0.0</commit>
+        <dependees>
+          <dependee>
+            <id>core-make</id>
+            <commit>release-v3.1.0</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+</dependencies>
