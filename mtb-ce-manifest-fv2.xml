@@ -1,2 +1,22 @@
 <apps version="2.0">
+  </app>
+    <app keywords="Hatchet,starter,template,empty,blank,mtb-flow">
+    <name>Empty App</name>
+    <id>mtb-example-h1-empty-app</id>
+    <category>Getting Started</category>
+    <uri>http://git-ore.aus.cypress.com/repo-staging/mtb-example-h1-empty-app</uri>
+    <description><![CDATA[This empty application provides a template for creating applications using CYW55513 devices.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-example-h1-empty-app/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>cyw955513evk_01</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="">
+        <num>Latest 0.X release</num>
+        <commit>latest-v0.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version="">
+        <num>0.5.0 release</num>
+        <commit>release-v0.5.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
