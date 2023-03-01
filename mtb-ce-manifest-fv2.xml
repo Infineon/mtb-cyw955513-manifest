@@ -1,5 +1,5 @@
 <apps version="2.0">
-  <app keywords="Hatchet,starter,template,empty,blank,mtb-flow">
+  <app keywords="starter,template,empty,blank,mtb-flow">
     <name>Empty App</name>
     <id>mtb-example-h1-empty-app</id>
     <category>Getting Started</category>
