@@ -22,7 +22,7 @@
     <name>HAL blinky led</name>
     <id>mtb-example-h1-blinky-led</id>
     <category>Peripherals</category>
-    <uri>https://gitlab.intra.infineon.com/wpp/ce/mtb/mtb-example-h1-blinky-led</uri>
+    <uri>http://git-ore.aus.cypress.com/repo-staging/mtb-example-h1-blinky-led</uri>
     <description><![CDATA[This code example demonstrates the blinking LED functionality implemented by ThreadX tasks on CYW55xxx devices.    
     <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-example-h1-blinky-led/blob/master/README.md">README on GitHub</a>.]]></description>
     <req_capabilities>cyw955513evk_01</req_capabilities>
