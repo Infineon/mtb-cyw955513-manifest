@@ -18,4 +18,23 @@
       </version>
     </versions>
   </app>
+  <app keywords="starter,blinky,mtb-flow,led">
+    <name>HAL blinky led</name>
+    <id>mtb-example-h1-blinky-led</id>
+    <category>Peripherals</category>
+    <uri>https://gitlab.intra.infineon.com/wpp/ce/mtb/mtb-example-h1-blinky-led</uri>
+    <description><![CDATA[This code example demonstrates the blinking LED functionality implemented by ThreadX tasks on CYW55xxx devices.    
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-example-h1-blinky-led/blob/master/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>cyw955513evk_01</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version_v2="[bsp_gen4]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+      <version flow_version="2.0" tools_min_version="3.0.0" req_capabilities_per_version_v2="[bsp_gen4]">
+        <num>1.0.0 release</num>
+        <commit>release-v1.0.0</commit>
+      </version>
+    </versions>
+  </app>
 </apps>
