@@ -4,8 +4,8 @@
     <category>AIROC&#8482; Connectivity BSPs</category>
     <board_uri>http://git-ore.aus.cypress.com/repo-staging/TARGET_CYW955513EVK-01</board_uri>
     <chips>
-      <mcu>CYW55500A0</mcu>
-      <radio>CYW55500A0</radio>
+      <mcu>CYW55513IUBG</mcu>
+      <radio>CYW55513IUBG</radio>
     </chips>
     <name>CYW955513EVK-01</name>
     <summary>The Infineon AIROC&amp;#8482; Wi-Fi &amp; Bluetooth&amp;#174; combo evaluation kit (CYW955513EVK-01) enables evaluation, prototyping, and development of a wide array of IoT applications using the AIROC&amp;#8482; CYW55513, a low power and high performance combo chip. &lt;p/&gt; The CYW55513 is a low-power, single-chip device that supports single-stream, tri-band, Wi-Fi 6/6E, IEEE 802.11ax-compliant Wi-Fi MAC/baseband/radio and Bluetooth&amp;#174;/Bluetooth&amp;#174; Low Energy 5.3. In 802.11ax mode, the device supports rates up to 1024 QAM MCS11 in 20 MHz channels. &lt;p/&gt; The CYW55513 includes a Bluetooth&amp;#174; subsystem that is Bluetooth&amp;#174; 5.3-compliant, supporting basic rate, enhanced data rate (EDR) and Bluetooth&amp;#174; Low Energy. The device can support Bluetooth&amp;#174; Low Energy audio, with LC3 codec running on the device enabling typical Smart watch audio use cases. A pair of time-division multiplexing (TDM) interfaces enables a flexible interface for various audio use cases and a PDM interface is available for connecting digital microphones.</summary>
