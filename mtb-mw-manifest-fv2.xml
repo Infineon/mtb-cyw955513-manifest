@@ -2,7 +2,7 @@
   <middleware>
     <name>core-make</name>
     <id>core-make</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/core-make</uri>
+    <uri>https://github.com/Infineon/core-make</uri>
     <desc><![CDATA[
         Core Make build system provides the make build files and scripts for building and programming ModusToolbox&#8482; applications.
         Builds can be run either through a command-line interface (CLI) or through ModusToolbox&#8482; Integrated Development Environment (IDE).<br>
@@ -25,7 +25,7 @@
   <middleware type="device_support">
     <name>mtb-pdl-cat5</name>
     <id>mtb-pdl-cat5</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/mtb-pdl-cat5</uri>
+    <uri>https://github.com/Infineon/mtb-pdl-cat5</uri>
     <desc>The Peripheral Driver Library (PDL) integrates device header files, startup code, and low-level peripheral drivers into a single package.</desc>
     <category>Core</category>
     <req_capabilities>cat5</req_capabilities>
@@ -45,7 +45,7 @@
   <middleware>
     <name>mtb-hal-cat5</name>
     <id>mtb-hal-cat5</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/mtb-hal-cat5</uri>
+    <uri>https://github.com/Infineon/mtb-hal-cat5</uri>
     <desc>CYW55500 Hardware Abstraction Layer package, provides a set of APIs to initialize, configure, and use the CYW55500 MCU resources using the ModusToolbox&#8482; Hardware Abstraction Layer.</desc>
     <category>Core</category>
     <req_capabilities>cat5</req_capabilities>
@@ -65,7 +65,7 @@
   <middleware>
     <name>recipe-make-cat5</name>
     <id>recipe-make-cat5</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/recipe-make-cat5</uri>
+    <uri>https://github.com/Infineon/recipe-make-cat5</uri>
     <desc>CYW55500 Make build recipe provides the make files and scripts for building and programming CYW55500 applications.</desc>
     <category>Core</category>
     <req_capabilities>cat5</req_capabilities>
@@ -100,7 +100,7 @@
   <middleware type="device_data" hidden="true">
     <name>device-db</name>
     <id>device-db</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/device-db</uri>
+    <uri>https://github.com/Infineon/device-db</uri>
     <desc>Device database provides device information for project-creator, configurators, and other tools.</desc>
     <category>Core</category>
     <req_capabilities/>
@@ -115,7 +115,7 @@
   <middleware>
     <name>abstraction-rtos</name>
     <id>abstraction-rtos</id>
-    <uri>http://git-ore.aus.cypress.com/repo-staging/abstraction-rtos</uri>
+    <uri>https://github.com/Infineon/abstraction-rtos</uri>
     <desc><![CDATA[
     The RTOS Abstraction Library provides a generic API that allows ModusToolbox&#8482; middleware to be written in an RTOS agnostic manner. It also contains implementations of the Abstraction Layer for FreeRTOS, CMSIS RTOS, and ThreadX.
     <br><br><b>Note:</b>
